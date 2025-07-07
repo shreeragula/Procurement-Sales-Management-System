@@ -1,4 +1,4 @@
-# Procurement & Sales Management System (ERP Tool) + Sample E-Commerce Website
+# Procurement & Sales Management System (ERP Tool) 
 
 Welcome to the official repository for our internship project **Procurement & Sales Management System**, developed using **Infor ERP LN**. This project also includes a visually engaging sample frontend website created purely for UI demonstration.
 
